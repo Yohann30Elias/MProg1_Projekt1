@@ -18,6 +18,4 @@ function Erste() {
   );
 }
 
-<p>hallo</p>
-
 export default Erste;
