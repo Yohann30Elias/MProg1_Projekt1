@@ -1,0 +1,51 @@
+.Summe {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 40em;
+    margin: auto;
+    margin-top: 5em;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #7b7b7b;
+    border-radius: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.Inputs {
+    margin-bottom: 10px;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
