@@ -4,7 +4,6 @@ import "./App.css";
 import { Home } from "./pages/Home";
 import Erste from "./pages/Erste";
 import Summe from "./pages/Summe";
-import Durchschnitt from "./pages/Durchschnitt";
 import About from './pages/About';
 import Hilfe from './pages/Hilfe';
 import Kontakt from './pages/Kontakt';
@@ -27,9 +26,6 @@ function App() {
       case "/quadm":
         progressPercentage = 100;
         break;
-      case "/durchschnitt":
-        progressPercentage = 66;
-        break;
       default:
         progressPercentage = 0;
     }
@@ -51,7 +47,6 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/erste" element={<Erste />} />
         <Route path="/summe" element={<Summe />} />
-        <Route path="/durchschnitt" element={<Durchschnitt />} />
         <Route path="/about" element={<About />} />
         <Route path="/hilfe" element={<Hilfe />} />
         <Route path="/kontakt" element={<Kontakt />} />
