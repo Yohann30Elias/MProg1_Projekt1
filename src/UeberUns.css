@@ -1,0 +1,60 @@
+/* Über uns / About Seite */
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-18px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+h1 {
+    animation: bounce 0.5s;
+}
+
+
+.AboutStructure {
+    color: rgb(0, 0, 0);
+    padding-right: 500px;
+    padding-left: 500px;
+    padding-top: 50px;
+}  
+
+
+p, h1 {
+    padding: 20px;
+    border: solid 2px black;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+/* Hilfe */
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+h3 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 2em;
+    font-size: larger;
+}
+
+
+
+
