@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MProg1_Projekt1
-Einen Versicherungsrechner
-=======
 ## Versicherungsrechner
 
 **Ersteller**
@@ -26,6 +22,3 @@ Step-by-Step Installation kann man mit folgenden Schritten durchführen:
     `npm install react-router-dom`
  - 
     `npm start`
-
-    
->>>>>>> master
