@@ -1,24 +1,61 @@
-## Versicherungsrechner
+# Versicherungsrechner Webapplikation
 
-**Ersteller**
-Ich habe diese Webapplikation als kleines Projekt im Unterricht der BBW realisiert.
+## Beschreibung
+Diese Webapplikation berechnet die Schadensübernahme und Haftpflichtversicherungsprämie. Die Werte sind annähernd und können je nach Versicherung abweichen.
 
-**Beschreibung**
-Dies ist eine Webapplikation, welche die Schadensübernahme der Versicherung über den Schadensrechner ausrechnet und die Haftpflichtversicherungsprämie ungefähr wiedergeben kann. Achte darauf, dass sich diese je nach Versicherung ändert, und der Wert deswegen nicht genau ist.
+## Voraussetzungen
+- npm (Node.js): [Node.js herunterladen](https://nodejs.org/en)
 
-**Voraussetzungen**
-Um die Applikation zu started benötigen Sie npm.
+## Installation
+1. Repository klonen:
+    ```sh
+    git clone https://github.com/Yohann30Elias/MProg1_Projekt1.git
+    ```
+2. In das Projektverzeichnis wechseln:
+    ```sh
+    cd MProg1_Projekt1/versicherungs_applikation
+    ```
+3. Abhängigkeiten installieren:
+    ```sh
+    npm install
+    ```
+4. React Router installieren:
+    ```sh
+    npm install react-router-dom
+    ```
+5. Anwendung starten:
+    ```sh
+    npm start
+    ```
 
-    `https://nodejs.org/en`
-    
-**Installation**
-Step-by-Step Installation kann man mit folgenden Schritten durchführen:
+## Nutzung
+Öffne `http://localhost:3000` in deinem Browser, um die Anwendung zu verwenden.
 
- - 
-     `cd versicherungs_applikation`
- - 
-    `npm install`
- - 
-    `npm install react-router-dom`
- - 
-    `npm start`
+## Lizenz
+Dieses Projekt ist lizenziert unter der MIT-Lizenz.
+
+## Autor
+Yohann Élias Riond
+
+## Schule
+BBW Informatik
+
+## Zeitraum
+4 Semester IMS 2024
+
+## Persönliche Auswertung
+Dieses Projekt dient zur Vertiefung der Kenntnisse in der Webentwicklung und zeigt die praktische Anwendung von React und npm.
+
+## Projekt-Dokumentation
+1. Figma:
+    ```
+    https://www.figma.com/design/4B7JAt3HitJLUVhcf4zfcr/Versicherungsrechner-BLiBlub?node-id=0-1&t=iPAUoJS6AS3r2nDE-0
+    ```
+2. MiroBoard:
+    ```
+    https://miro.com/app/board/uXjVKdEptnU=/
+    ```
+3. Infos:
+    ```
+    Informations gathering ist im Github vorhanden
+    ```
