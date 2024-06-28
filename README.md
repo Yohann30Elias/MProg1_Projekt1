@@ -41,7 +41,7 @@ BBW Informatik
 4 Semester IMS 2024
 
 ## Persönliche Auswertung
-Dieses Projekt dient zur Vertiefung der Kenntnisse in der Webentwicklung und zeigt die praktische Anwendung von React und npm.
+Dieses Projekt dient zur Vertiefung der Kenntnisse in der Webentwicklung und zeigt die praktische Anwendung von React und npm. Ich habbe mich deutlich während dieses Projekt in React gesteigert und denke das ich nun in kurzer Zeit vernünftige React Projekte Umsetzen kann und das Professionel.
 
 ## Projekt-Dokumentation
 1. Figma:
