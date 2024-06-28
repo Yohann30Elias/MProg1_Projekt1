@@ -31,9 +31,6 @@ Diese Webapplikation berechnet die Schadensübernahme und Haftpflichtversicherun
 ## Nutzung
 Öffne `http://localhost:3000` in deinem Browser, um die Anwendung zu verwenden.
 
-## Lizenz
-Dieses Projekt ist lizenziert unter der MIT-Lizenz.
-
 ## Autor
 Yohann Élias Riond
 
